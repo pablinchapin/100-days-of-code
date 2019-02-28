@@ -8,3 +8,4 @@ The log of my #100DaysOfCode challenge. Started on February 27th 2019
 Continuing an ecommerce project that I recently started
 
 ### R1D2
+Adding orders component to ecommerce project XD

@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: February 27, Thursday
+### Day 1: February 27, Wednesday
 
 **Today's Progress**: Continuing an ecommerce site that I've started a couple of days ago.
 
@@ -10,7 +10,7 @@
 1.
 
 
-### Day 2: February 28, Wednesday
+### Day 2: February 28, Thursday
 
 **Today's Progress**: Adding orders component.
 

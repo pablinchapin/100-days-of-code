@@ -19,3 +19,13 @@
 **Link(s) to work**
 1.https://github.com/pablinchapin/frontendlaliz/commit/211c36c7c278eb1d3f547078b8a900400ce00203
 
+
+### Day 3: March 01, Friday!!
+
+**Today's Progress**: Starting a new version for ecommerce project 
+
+**Thoughts** I need to try this option also  
+
+**Link(s) to work**
+1.
+

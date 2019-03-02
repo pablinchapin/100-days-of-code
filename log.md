@@ -27,5 +27,5 @@
 **Thoughts** I need to try this option also  
 
 **Link(s) to work**
-1.
+1.https://github.com/pablinchapin/laliz-paralelo-aj/commit/77a3fd2c2b61df22b0638ee3c24c7c8b74ebb7da
 

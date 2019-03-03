@@ -10,6 +10,8 @@ Continuing an ecommerce project that I recently started
 ### R1D2
 Adding orders component to ecommerce project XD
 
-
-### R1D2
+### R1D3
 A new version for ecommerce project this time using only java
+
+### R1D4
+Continuing with this alternative ecommerce project version

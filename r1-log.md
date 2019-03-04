@@ -15,3 +15,9 @@ A new version for ecommerce project this time using only java
 
 ### R1D4
 Continuing with this alternative ecommerce project version
+
+### R1D5
+Continuing with this alternative ecommerce project version
+
+### R1D6
+Continuing with this alternative ecommerce project version

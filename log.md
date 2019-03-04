@@ -39,3 +39,12 @@
 **Link(s) to work**
 1.https://github.com/pablinchapin/laliz-paralelo-aj/commit/f0270543a0a4b245fdf3fe26447207e95e533ea2
 
+
+### Day 5: March 03, Sunday!!
+
+**Today's Progress**: Continuing with an alternative version for my ecommerce project 
+
+**Thoughts** proximo paso agregar controladores  
+
+**Link(s) to work**
+1.https://github.com/pablinchapin/laliz-paralelo-aj/commit/5a7523c0b13c58c3df19edb662f3bfcd637477a4

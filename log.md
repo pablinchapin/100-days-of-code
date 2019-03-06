@@ -68,3 +68,13 @@
 
 **Link(s) to work**
 1.https://github.com/pablinchapin/laliz-paralelo-aj/commit/9e6611bfe37ddb300e183c6553f9fc3da2e3d061
+
+
+### Day 8: March 06, Wednesday!!!
+
+**Today's Progress**: Continuing with an alternative version for my ecommerce project 
+
+**Thoughts** next step continue with html templates 
+
+**Link(s) to work**
+1.https://github.com/pablinchapin/laliz-paralelo-aj/commit/c9a0eb05fcb7e87e2b942d20b460b2bc8a348cbd

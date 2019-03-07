@@ -24,3 +24,6 @@ Continuing with this alternative ecommerce project version
 
 ### R1D7
 Continuing with this alternative ecommerce project version
+
+### R1D8
+Continuing with this alternative ecommerce project version

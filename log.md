@@ -98,3 +98,14 @@
 
 **Link(s) to work**
 1.https://github.com/pablinchapin/laliz-paralelo-aj/commit/abd342d31ce46459fe0c6370ba554fb4ceba9c2e
+
+
+
+### Day 11: March 09, Saturday!!!
+
+**Today's Progress**: Continuing with an alternative version for my ecommerce project 
+
+**Thoughts** Adding categories for products, I will that mapping for products 
+
+**Link(s) to work**
+1.https://github.com/pablinchapin/laliz-paralelo-aj/commit/45f2e8a310f2e398f685fd0246d9bd541276dca2

@@ -119,3 +119,13 @@
 
 **Link(s) to work**
 1.https://github.com/pablinchapin/laliz-paralelo-aj/commit/77df664050aa67f1b085797f9f3de1ad9473c96f
+
+
+### Day 13: March 11, Monday!!!
+
+**Today's Progress**: Continuing with an alternative version for my ecommerce project 
+
+**Thoughts** Adding category mapping for products on frontend also add product detail view, next step is to add product on cart
+
+**Link(s) to work**
+1.https://github.com/pablinchapin/laliz-paralelo-aj/commit/d90345a3ca49ed672ddacbc2dd10848d5d05333c

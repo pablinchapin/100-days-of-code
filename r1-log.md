@@ -36,3 +36,12 @@ Continuing with this alternative ecommerce project version
 
 ### R1D11
 Continuing with this alternative ecommerce project version
+
+### R1D12
+Continuing with this alternative ecommerce project version
+
+### R1D13
+Continuing with this alternative ecommerce project version
+
+### R1D14
+Continuing with this alternative ecommerce project version

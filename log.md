@@ -129,3 +129,14 @@
 
 **Link(s) to work**
 1.https://github.com/pablinchapin/laliz-paralelo-aj/commit/d90345a3ca49ed672ddacbc2dd10848d5d05333c
+
+
+
+### Day 14: March 12, Tuesday!!!
+
+**Today's Progress**: Continuing with an alternative version for my ecommerce project 
+
+**Thoughts** Adding products to cart and list that products, next step is to be able of remove products and edit quantity
+
+**Link(s) to work**
+1.https://github.com/pablinchapin/laliz-paralelo-aj/commit/98adf2c2f9f130e5d3b4d7afebbde2125f4dfef5

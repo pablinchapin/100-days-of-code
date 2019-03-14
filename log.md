@@ -150,3 +150,14 @@
 
 **Link(s) to work**
 1.https://github.com/pablinchapin/laliz-paralelo-aj/commit/4c25e9bb06b7a7d2257773fa661f95d0e2a7b550
+
+
+
+### Day 16: March 14, Thursday!!!
+
+**Today's Progress**: Continuing with an alternative version for my ecommerce project 
+
+**Thoughts**  checkout and order confirmation templates added, but I need to make some fixes
+
+**Link(s) to work**
+1.https://github.com/pablinchapin/laliz-paralelo-aj/commit/3ac7da630edd848702c425ec06c6f0f2b9f5f4b4

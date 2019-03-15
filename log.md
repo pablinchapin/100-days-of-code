@@ -161,3 +161,14 @@
 
 **Link(s) to work**
 1.https://github.com/pablinchapin/laliz-paralelo-aj/commit/3ac7da630edd848702c425ec06c6f0f2b9f5f4b4
+
+
+
+### Day 17: March 15, Friday!!!
+
+**Today's Progress**: Continuing with an alternative version for my ecommerce project 
+
+**Thoughts**  order and detail created, and also add a basic template to show user his order number
+
+**Link(s) to work**
+1.https://github.com/pablinchapin/laliz-paralelo-aj/commit/3ac7da630edd848702c425ec06c6f0f2b9f5f4b4

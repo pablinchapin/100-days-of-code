@@ -172,3 +172,14 @@
 
 **Link(s) to work**
 1.https://github.com/pablinchapin/laliz-paralelo-aj/commit/3ac7da630edd848702c425ec06c6f0f2b9f5f4b4
+
+
+
+### Day 18: March 16, Saturday!!!
+
+**Today's Progress**: Continuing with an alternative version for my ecommerce project 
+
+**Thoughts**  starting with social login side project in order to integrate with my ecommerce project
+
+**Link(s) to work**
+1.https://github.com/pablinchapin/springboot-social-login/commit/00fa8660485a4cda2669eadc2c1a74eec6927982

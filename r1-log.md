@@ -54,3 +54,10 @@ Continuing with this alternative ecommerce project version
 
 ### R1D17
 Continuing with this alternative ecommerce project version
+
+### R1D18
+Continuing with this alternative ecommerce project version
+
+### R1D19
+Continuing with this alternative ecommerce project version
+

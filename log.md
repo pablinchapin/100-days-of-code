@@ -203,3 +203,13 @@
 
 **Link(s) to work**
 1.https://github.com/pablinchapin/springboot-social-login/commit/5e5a74a65188f8a55a6b3b5629a287b1f72090f3
+
+
+### Day 21: March 19, Tuesday!!!
+
+**Today's Progress**: Continuing with an alternative version for my ecommerce project 
+
+**Thoughts**  almost nothing to commit, I was trying to integrate authentication on my other project but have some issues that I'm still resolving
+
+**Link(s) to work**
+1.https://github.com/pablinchapin/springboot-social-login/commit/a947c7fa57f4b76e952c6b29a4d95807a5479306

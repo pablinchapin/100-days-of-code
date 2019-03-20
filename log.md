@@ -213,3 +213,13 @@
 
 **Link(s) to work**
 1.https://github.com/pablinchapin/springboot-social-login/commit/a947c7fa57f4b76e952c6b29a4d95807a5479306
+
+
+
+### Day 22: March 20, Wednesday!!!
+
+**Today's Progress**: Continuing with an alternative version for my ecommerce project 
+
+**Thoughts**  almost nothing new just starting again with jpa security 
+**Link(s) to work**
+1.https://github.com/pablinchapin/tlizalfa/commit/c4b16541a9ef860dcb256516385b86ed4bd1fa19

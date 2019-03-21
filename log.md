@@ -223,3 +223,12 @@
 **Thoughts**  almost nothing new just starting again with jpa security 
 **Link(s) to work**
 1.https://github.com/pablinchapin/tlizalfa/commit/c4b16541a9ef860dcb256516385b86ed4bd1fa19
+
+
+### Day 23: March 21, Thursday!!!
+
+**Today's Progress**: Continuing with an alternative version for my ecommerce project 
+
+**Thoughts**  I made a few changes over and old implementations that I was using
+**Link(s) to work**
+1.https://github.com/pablinchapin/tlizalfa/commit/2d1df959c96d576fa9cd05d9e609a86ba4bf3bc6

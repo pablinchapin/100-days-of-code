@@ -232,3 +232,13 @@
 **Thoughts**  I made a few changes over and old implementations that I was using
 **Link(s) to work**
 1.https://github.com/pablinchapin/tlizalfa/commit/2d1df959c96d576fa9cd05d9e609a86ba4bf3bc6
+
+
+
+### Day 24: March 22, Friday!!!
+
+**Today's Progress**: Continuing with an alternative version for my ecommerce project 
+
+**Thoughts**  I will start with admin site 
+**Link(s) to work**
+1.https://github.com/pablinchapin/tlizalfa/commit/022fbc4b1fe0a55ed3460a8b1a731b481d237d4b

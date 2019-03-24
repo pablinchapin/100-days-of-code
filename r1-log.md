@@ -73,3 +73,8 @@ Continuing with this alternative ecommerce project version
 ### R1D23
 Continuing with this alternative ecommerce project version
 
+### R1D24
+Continuing with this alternative ecommerce project version
+
+### R1D25
+Continuing with this alternative ecommerce project version

@@ -259,3 +259,13 @@
 **Thoughts**  I made some work on adding support for Order and OrderDetails
 **Link(s) to work**
 1.https://github.com/pablinchapin/tlizalfa/commit/3bcd280ae560001c4938c5cf85fdddf861920714
+
+
+
+### Day 27: March 25, Monday!!!
+
+**Today's Progress**: Continuing with an alternative version for my ecommerce project 
+
+**Thoughts**  I made some work on adding Order and OrderDetails, I need to make some changes in order to get orders by customer and for display order details
+**Link(s) to work**
+1.https://github.com/pablinchapin/tlizalfa/commit/c156bcc035610299b13224fbf28ce5a7d80b52d3

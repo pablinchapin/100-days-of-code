@@ -250,3 +250,12 @@
 **Thoughts**  need to work on adding an order to database  
 **Link(s) to work**
 1.https://github.com/pablinchapin/tlizalfa/commit/bc9ad6200229b22a36b60d60f5b19ee02f67fb1b
+
+
+### Day 26: March 24, Sunday!!!
+
+**Today's Progress**: Continuing with an alternative version for my ecommerce project 
+
+**Thoughts**  I made some work on adding support for Order and OrderDetails
+**Link(s) to work**
+1.https://github.com/pablinchapin/tlizalfa/commit/3bcd280ae560001c4938c5cf85fdddf861920714

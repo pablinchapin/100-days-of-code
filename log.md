@@ -269,3 +269,13 @@
 **Thoughts**  I made some work on adding Order and OrderDetails, I need to make some changes in order to get orders by customer and for display order details
 **Link(s) to work**
 1.https://github.com/pablinchapin/tlizalfa/commit/c156bcc035610299b13224fbf28ce5a7d80b52d3
+
+
+
+### Day 28: March 26, Tuesday!!!
+
+**Today's Progress**: Continuing with an alternative version for my ecommerce project 
+
+**Thoughts**  I made some work on adding support to get orders by user(customer) 
+**Link(s) to work**
+1.https://github.com/pablinchapin/tlizalfa/commit/cd6d5a3145a504b43d185d2b3bc587f5cc9089b6

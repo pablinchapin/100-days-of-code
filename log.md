@@ -279,3 +279,13 @@
 **Thoughts**  I made some work on adding support to get orders by user(customer) 
 **Link(s) to work**
 1.https://github.com/pablinchapin/tlizalfa/commit/cd6d5a3145a504b43d185d2b3bc587f5cc9089b6
+
+
+### Day 29: March 27, Wednesday!!!
+
+**Today's Progress**: Continuing with an alternative version for my ecommerce project 
+
+**Thoughts**  I made some work on adding support to get order detail by user(customer) 
+**Link(s) to work**
+1.https://github.com/pablinchapin/tlizalfa/commit/c75fcfaa19099daf3be807b80e84aa5404ad6f8a
+

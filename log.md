@@ -298,3 +298,12 @@
 **Link(s) to work**
 1.https://github.com/pablinchapin/tlizalfa/commit/8f294b9323dea50951cc94e05db44a2a17d210b7
 
+
+
+### Day 31: March 29, Friday!!!
+
+**Today's Progress**: Continuing with an alternative version for my ecommerce project 
+
+**Thoughts**  I made some work on adding support to multiple email configurations 
+**Link(s) to work**
+1.https://github.com/pablinchapin/tlizalfa/commit/f8cc7e35f1b67e0d92a87eef8623e38276c7fb25

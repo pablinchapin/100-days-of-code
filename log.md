@@ -289,3 +289,12 @@
 **Link(s) to work**
 1.https://github.com/pablinchapin/tlizalfa/commit/c75fcfaa19099daf3be807b80e84aa5404ad6f8a
 
+
+### Day 30: March 28, Tuesday!!!
+
+**Today's Progress**: Continuing with an alternative version for my ecommerce project 
+
+**Thoughts**  I made some work on adding support to send email when a new order is created 
+**Link(s) to work**
+1.https://github.com/pablinchapin/tlizalfa/commit/8f294b9323dea50951cc94e05db44a2a17d210b7
+

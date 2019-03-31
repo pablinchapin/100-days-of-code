@@ -317,3 +317,13 @@
 **Thoughts**  I start today this new version microservices oriented with this basic catalog service 
 **Link(s) to work**
 1.https://github.com/pablinchapin/tl-microservice-catalog/commit/dbc5d5d0ab49fce69289eddb203f857b587f377f
+
+
+
+### Day 33: March 31, Sunday!!!
+
+**Today's Progress**: New version for my ecommerce project this time using microservice 
+
+**Thoughts**  Today I add the controller for catalog service and start working on configuration server 
+**Link(s) to work**
+1.https://github.com/pablinchapin/tl-microservice-catalog/commit/c6dc6d7c71e45f6f9ac86c8ca2171056524c4bed

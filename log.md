@@ -307,3 +307,13 @@
 **Thoughts**  I made some work on adding support to multiple email configurations 
 **Link(s) to work**
 1.https://github.com/pablinchapin/tlizalfa/commit/f8cc7e35f1b67e0d92a87eef8623e38276c7fb25
+
+
+
+### Day 32: March 30, Saturday!!!
+
+**Today's Progress**: New version for my ecommerce project this time using microservice 
+
+**Thoughts**  I start today this new version microservices oriented with this basic catalog service 
+**Link(s) to work**
+1.https://github.com/pablinchapin/tl-microservice-catalog/commit/dbc5d5d0ab49fce69289eddb203f857b587f377f

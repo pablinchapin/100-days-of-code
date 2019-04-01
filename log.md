@@ -327,3 +327,14 @@
 **Thoughts**  Today I add the controller for catalog service and start working on configuration server 
 **Link(s) to work**
 1.https://github.com/pablinchapin/tl-microservice-catalog/commit/c6dc6d7c71e45f6f9ac86c8ca2171056524c4bed
+
+
+
+
+### Day 34: April 01, Monday!!!
+
+**Today's Progress**: New version for my ecommerce project this time using microservice 
+
+**Thoughts**  Today I add support for configuration service, also I start adding support for vault to store credential separated
+**Link(s) to work**
+1.https://github.com/pablinchapin/tl-microservices-config-repo/commit/8fb3ec58105352d354bcbea61317fc1f0e6f8e57

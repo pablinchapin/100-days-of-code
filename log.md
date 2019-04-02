@@ -330,7 +330,6 @@
 
 
 
-
 ### Day 34: April 01, Monday!!!
 
 **Today's Progress**: New version for my ecommerce project this time using microservice 
@@ -338,3 +337,13 @@
 **Thoughts**  Today I add support for configuration service, also I start adding support for vault to store credential separated
 **Link(s) to work**
 1.https://github.com/pablinchapin/tl-microservices-config-repo/commit/8fb3ec58105352d354bcbea61317fc1f0e6f8e57
+
+
+
+### Day 35: April 02, Tuesday!!!
+
+**Today's Progress**: New version for my ecommerce project this time using microservice 
+
+**Thoughts**  Today I add support for registry service, also I start multiple catalog service instances in order to register with this service, still pending to add support for vault for store credential separated I will leave this for later
+**Link(s) to work**
+1.https://github.com/pablinchapin/tl-microservices-service-registry/commit/8eb03dd46558198548e4c4959f1fe8086a84cea6

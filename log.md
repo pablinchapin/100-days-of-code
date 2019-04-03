@@ -347,3 +347,14 @@
 **Thoughts**  Today I add support for registry service, also I start multiple catalog service instances in order to register with this service, still pending to add support for vault for store credential separated I will leave this for later
 **Link(s) to work**
 1.https://github.com/pablinchapin/tl-microservices-service-registry/commit/8eb03dd46558198548e4c4959f1fe8086a84cea6
+
+
+
+### Day 36: April 03, Wednesday!!!
+
+**Today's Progress**: New version for my ecommerce project this time using microservice 
+
+**Thoughts**  Today I add inventory service, also I start multiple service instances and modify the catalog service in order to use inventory service
+**Link(s) to work**
+1.https://github.com/pablinchapin/tl-microservices-service-inventory/commit/8c9723ff5ddf3615e4b784607015ba1bdb8f03ce
+

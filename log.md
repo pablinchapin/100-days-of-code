@@ -358,3 +358,13 @@
 **Link(s) to work**
 1.https://github.com/pablinchapin/tl-microservices-service-inventory/commit/8c9723ff5ddf3615e4b784607015ba1bdb8f03ce
 
+
+
+### Day 37: April 05, Friday!!!
+
+**Today's Progress**: New version for my ecommerce project this time using microservice 
+
+**Thoughts**  Today I add shopping-cart-service service, with zuul configuration
+**Link(s) to work**
+1.https://github.com/pablinchapin/service-shopping-cart-ui/commit/757e9137496cf738d0b260a0fb4aee2d5aaa0a3f
+

@@ -368,3 +368,14 @@
 **Link(s) to work**
 1.https://github.com/pablinchapin/service-shopping-cart-ui/commit/757e9137496cf738d0b260a0fb4aee2d5aaa0a3f
 
+
+
+### Day 38: April 05, Saturday!!!
+
+**Today's Progress**: New version for my ecommerce project this time using microservice 
+
+**Thoughts**  Today I just try again vault for store credentials, it work's!
+
+**Link(s) to work**
+1.https://github.com/pablinchapin/vault-test/commit/3ae824d55654c73822d8a59953ea0d3943453d75
+

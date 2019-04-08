@@ -360,7 +360,7 @@
 
 
 
-### Day 37: April 05, Friday!!!
+### Day 38: April 05, Friday!!!
 
 **Today's Progress**: New version for my ecommerce project this time using microservice 
 
@@ -370,7 +370,7 @@
 
 
 
-### Day 38: April 06, Saturday!!!
+### Day 39: April 06, Saturday!!!
 
 **Today's Progress**: New version for my ecommerce project this time using microservice 
 
@@ -378,4 +378,15 @@
 
 **Link(s) to work**
 1.https://github.com/pablinchapin/vault-test/commit/3ae824d55654c73822d8a59953ea0d3943453d75
+
+
+
+### Day 40: April 07, Sunday!!!
+
+**Today's Progress**: New version for my ecommerce project this time using microservice 
+
+**Thoughts**  Today I add zuul filter, thymeleaf and some basic templates to service shopping cart
+
+**Link(s) to work**
+1.https://github.com/pablinchapin/service-shopping-cart-ui/commit/8d6bdf8a170d35907ea9a1990672a3c37a1656fc
 

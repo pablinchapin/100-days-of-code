@@ -390,3 +390,13 @@
 **Link(s) to work**
 1.https://github.com/pablinchapin/service-shopping-cart-ui/commit/8d6bdf8a170d35907ea9a1990672a3c37a1656fc
 
+
+
+### Day 42: April 09, Tuesday!!!
+
+**Today's Progress**: New version for my ecommerce project this time using microservice 
+
+**Thoughts**  Today I try to get paginated response from catalog-service inside my shoppingcart-ui-service, I'm kind of stuck with this I will try again tomorrow
+
+**Link(s) to work**
+https://github.com/pablinchapin/service-shopping-cart-ui/commit/deb4e994d07f9e36c10624cc98411d2dc98e4e84

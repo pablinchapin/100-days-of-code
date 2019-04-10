@@ -400,3 +400,13 @@
 
 **Link(s) to work**
 https://github.com/pablinchapin/service-shopping-cart-ui/commit/deb4e994d07f9e36c10624cc98411d2dc98e4e84
+
+
+### Day 43: April 10, Wednesday!!!
+
+**Today's Progress**: New version for my ecommerce project this time using microservice 
+
+**Thoughts**  Today I get paginated response from catalog-service inside my shoppingcart-ui-service, in order to get data for categoryList, productList and productDetail
+
+**Link(s) to work**
+1. https://github.com/pablinchapin/service-shopping-cart-ui/commit/e6b076089a73482c38c256759e3e1303e2123217
